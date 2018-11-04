@@ -1,0 +1,28 @@
+body {
+    background: url(https://www.fg-a.com/wallpapers/white-marble-1-2018.jpg);
+    background-size: cover;
+    background-position: center; 
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 4em;
+	border-bottom: 1px solid rgb(69, 66, 66);
+	color: rgb(69, 66, 66);
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+h2 {
+	color: rgb(69, 66, 66);	
+}
+
+.bottom {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.top {
+
+margin-bottom: 25px;
+}

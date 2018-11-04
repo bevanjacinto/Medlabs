@@ -1,0 +1,156 @@
+<?php
+require 'header.php';
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact Us</title>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+  <style type="text/css">
+    body { padding-top: 70px; 
+    background: url(https://www.fg-a.com/wallpapers/white-marble-1-2018.jpg);
+    background-size: cover;
+    background-position: center;
+    }
+    .jumbotron {
+      color: #2c3e50;
+      background: #ecf0f1;
+      margin-top: 50px;
+
+    }
+    .navbar-inverse {
+      background: #2c3e50;
+      color: white;
+    }
+    .navbar-inverse .navbar-brand, .navbar-inverse a{
+      color:white;
+    }
+    .navbar-inverse .navbar-nav>li>a {
+      color: white;
+    } 
+
+  </style>
+</head>
+<body>
+	
+  <div class="container">
+
+  <div class="jumbotron">
+    <h1><i class="fas fa-wifi"></i> Contact a Doctor </h1>
+    <p>.  .  .  .  .  .  .  .  .  The Fastest Way To Connect With Us</p> 
+
+    <div class="row">
+      <div class="col-lg-4 col-sm-6">
+        <div class="thumbnail">
+          <img src="https://myblue.bluecrossma.com/sites/g/files/csphws1086/files/inline-images/Doctor%20Image%20Desktop.png"style="width:500px;height:300px;">
+        </div>
+        <p>Dr. KJ Rao (Physician)</p>
+        <p>Contact - 987654321</p>
+      </div>
+      <div class="col-lg-4 col-sm-6">
+        <div class="thumbnail">
+          <img src="https://www.cute-calendar.com/images/en/teaser/national-doctors-day.jpg"style="width:500px;height:300px;">
+        </div>
+        <p>Dr. BR. Patil (Surgeon)</p>
+        <p>Contact - 987654321</p>
+      </div>
+      <div class="col-lg-4 col-sm-6">
+        <div class="thumbnail">
+          <img src="https://www.privatefinance.co.uk/images/default-source/Landing-Pages/mortgages-for-doctorv2.jpg?sfvrsn=55992b42_2"style="width:500px;height:300px;">
+        </div>
+         <p>Dr. Ashely Roy (Doctor of Surger)</p>
+        <p>Contact - 987654321</p>
+      </div>
+    </div>
+  </div>
+      <div>
+        <p>For general information and questions please call our Customer Service Department at 319.368.5650.</p>
+        <p>For information and questions regarding billing please call our Billing Department direct at 319.368.5824 or 800.747.3039.</p>
+     </div>
+
+      <a href="Home.html"><button type="button" class="btn btn-light">Home</button></a>
+     
+     <h1>FAQs</h1>
+
+     
+      <h3> Q. How do I reach your billing department?</h3>
+<p>A. Call our Billing Department direct at 319.368.5824 or 800.747.3039  </p>
+
+<h3>Q. How do I reach customer service?</h3>
+<p>A. Call our Customer Service department direct at 319.368.5650. </p> 
+
+<h3>Q: What does it mean to fast for my blood test?</h3>
+<p>A:  Fasting means no eating foods or drinking liquids that may interfere with your lab test results. The period of fasting varies from 10-12 hours and should be no more than 16 hours. Fasting means no eating foods of any kind. Fasting means no coffee, no tea and no soda. You are encouraged to drink water and only water during your fast.</p>
+
+<h3>Q. Why is drinking water encouraged?</h3>
+<p>A. It is recommended that when you are having blood drawn, you drink plenty of water to keep properly hydrated.  By doing so, proper hydration helps in locating veins and preventing dizziness brought on by fasting.</p>
+
+<h3>Q. What lab tests require fasting and how long do I need to fast?</h3>
+ <p>A.  Glucose, lactose, homocystiene and lipid panel are common tests that require fasting before the test can be done.  Follow the instructions from your provider if you are required to fast before lab testing.
+  Glucose testing requires a minimum fast of 10 hours, but no more than 16 hours.
+  Homocysteine testing requires a minimum fast of 12 hours, but no more than 16 hours.
+  Lipid panel testing requires a minimum fast of 12 hours, but no more than 16 hours.
+  Lactose testing requires a minimum fast of 10 hours, but no more than 16 hours.</p>
+
+<h3>Q. Do I need to fast or avoid any specific food or drink for urine or stool tests?</h3>
+<p>A. Fasting is not required for urine or stool tests.  Check with your health provider for specific food or drink avoidance associated with stool or urine testing ordered.  </p>
+ 
+<h3>Q. What can I eat or drink while I fast?</h3>
+<p>A. You are encouraged to drink plenty of water during your fast. You are not permitted to eat anything or drink anything but water.  Do not drink coffee, tea or soda.</p>
+
+<h3>Q. Can I drink black coffee, tea or soda during my fast?</h3>
+<p>A. You are encouraged to drink plenty of water during your fast. You are not permitted to eat anything or drink anything but water.  Do not drink coffee, tea or sodas.</p>
+ 
+<h3>Q. Can I take my scheduled medications during my fast?</h3>
+<p>A. You may take medication as prescribed by your doctor when fasting for a lab test. Be sure that you take medication ONLY with water.</p>
+
+<h3>Q. How do I collect stool specimen?</h3>
+<p>A. Please click on this link: Stool Collection Instructions for specific information on collection of stool samples.</p>
+
+<h3>Q. How do I collect urine specimen?</h3>
+<p>A. Please click on the appropriate link: Clean Catch Urine Instructions – Female or
+Clean Catch Urine Instructions - Male for specific information on collection of urine samples.</p>
+
+<h3>Q. How do I collect a 24-hour urine specimen?</h3>
+<p>A. Please click on this link: 24 Hour Urine Collection Instructions for specific information on collection of 24-hour urine samples.</p>
+
+<h3>Q. What should I do if I get a bruise after having my blood drawn?</h3>
+<p>A. When a person has blood taken, there is the potential that blood could either leak from the vein or that blood will become trapped under the skin from the procedure itself. Often there are just small bruises from the procedure, although heavy bruising can occur. The application of a cool pack or ice can help to reduce the potential of the bruise. Alternating ice and heat on the bruise site may promote healing.</p>
+ 
+<h3>Q. Are my lab test orders sent to MedLabs or do I need to bring them with me?</h3>
+<p>A. Orders for lab tests may be sent electronically to Medlabs. If your health providers gives you a paper copy of the lab order you will need to bring it with you to any one of our convenient locations. To confirm that your order for lab testing has been received electronically, please call: 319.368.5650.</p>
+
+<h3>Q. Are my test results sent to my doctor?</h3>
+<p>A. Yes. MedLabs sends your lab test results directly to the ordering provider.</p>
+ 
+<h3>Q. How can I see my lab test results?</h3>
+<p>A. You may view your results online as well as manage your health your way.  To learn more and get started click on chart.myunitypoint.org  and click on “Sign Up Now”. For assistance call toll free: 877.224.4430.</p>
+ 
+<h3>Q. How long will it take to get my lab test results?</h3>
+<p>A. Depending on the test, results take approximately 2-5 days and will be sent to the ordering provider. You may see your lab test results on chart.myunitypoint.org or by calling your health provider.</p>
+
+<h3>Q. What does my lab test cost?</h3>
+<p>A. Please call MedLabs Customer Service at 319.363.5650 for test cost inquiries.</p>
+
+<h3>Q. How can I pay my bill?</h3>
+<p>A. You can pay your bill in person at any convenient MedLabs location, by phone or by mail. Payment of your bill can be done with cash, check, or credit card. For more information please call the Medlabs Billing Department at 800.747.3039.</p>
+ 
+<h3>Q. What insurances does MedLabs accept?</h3>
+<p>A. MedLabs accepts most all insurances providers.  For a list of accepted insurance providers please visit the “Insurance” page of this website by clicking on the following link: INSURANCE.</p>
+ 
+<h3>Q. Can I make payments on my bill?</h3>
+<p>A. Yes you can make payments on your bill or an outstanding balance. You must call the Medlabs billing department at 800.747.3039 to make payment arrangements.</p>
+
+<h3>Q. What happens if I cannot pay my bill and do you offer any financial aid?</h3>
+<p>A. You may be eligible for financial assistance through our partnering with UnityPoint Health. Call our Billing Services at 800.747.3039 for help in determining your eligibility. For a .PDF download with more information and an application, click on the following link: FINANCIAL AID.</p>
+     
+  </div>
+
+<script src="https://code.jquery.com/jquery-2.1.4.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</body>
+</html>
+
